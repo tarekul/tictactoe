@@ -1,0 +1,17 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+  height: 300px;
+}
+
+.square {
+  width: 98px;
+  height: 98px;
+  border: 0.5px solid;
+}
+
+img {
+  width: 80px;
+  padding: 10px;
+}
