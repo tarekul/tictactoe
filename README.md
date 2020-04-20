@@ -1,4 +1,4 @@
-# TiTacToe
+# TicTacToe
 
 Turn based one player tic tac toe game with a built in artificial intelligence that plays ahead to find the best move to make after player makes a move
 
